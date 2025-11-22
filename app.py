@@ -1,51 +1,106 @@
 import streamlit as st
 import pandas as pd
 import json
+import plotly.express as px
 
 st.set_page_config(layout="wide", page_title="GoodSmile Tracker")
 
-# Load Data
+# --- 1. LOAD DATA ---
 try:
     with open("products.json", "r") as f:
         products = json.load(f)
 except FileNotFoundError:
-    st.error("products.json not found! Run import_products.py first.")
+    st.error("Database not found! (Wait for the scraper to run first)")
     st.stop()
 
-st.title(f"🧸 Figure Tracker ({len(products)} Items)")
+# --- 2. METRICS SECTION ---
+# Calculate counts dynamically
+total_items = len(products)
+in_stock_count = sum(1 for p in products if p.get("last_status") == "In Stock")
+out_stock_count = sum(1 for p in products if p.get("last_status") == "Out of Stock")
 
-# Filters
-filter_status = st.radio("Show:", ["All", "In Stock Only", "Out of Stock Only"], horizontal=True)
-search = st.text_input("Search figures...", "")
+st.title("🧸 Figure Tracker Dashboard")
 
+# Display big numbers at the top
+m1, m2, m3 = st.columns(3)
+m1.metric("Total Tracked", total_items)
+m2.metric("In Stock", in_stock_count, delta="Available Now")
+m3.metric("Out of Stock", out_stock_count, delta_color="inverse")
+
+st.divider()
+
+# --- 3. CONTROLS (Search, Filter, Sort) ---
+c1, c2, c3 = st.columns([2, 1, 1])
+
+with c1:
+    search = st.text_input("🔍 Search Figures", placeholder="Type a name...")
+
+with c2:
+    filter_status = st.selectbox("Filter Status", ["All", "In Stock", "Out of Stock"])
+
+with c3:
+    sort_option = st.selectbox("Sort By", ["Price: Low to High", "Price: High to Low", "Name (A-Z)"])
+
+# --- 4. FILTER & SORT LOGIC ---
+filtered_list = []
+
+# A. Filter First
+for p in products:
+    # Status Filter
+    if filter_status == "In Stock" and p.get("last_status") != "In Stock": continue
+    if filter_status == "Out of Stock" and p.get("last_status") != "Out of Stock": continue
+    
+    # Search Filter
+    if search.lower() and search.lower() not in p['name'].lower(): continue
+    
+    filtered_list.append(p)
+
+# B. Sort Second
+if sort_option == "Price: Low to High":
+    filtered_list.sort(key=lambda x: x.get("last_price", 0))
+elif sort_option == "Price: High to Low":
+    filtered_list.sort(key=lambda x: x.get("last_price", 0), reverse=True)
+elif sort_option == "Name (A-Z)":
+    filtered_list.sort(key=lambda x: x.get("name", "").lower())
+
+# --- 5. DISPLAY GRID ---
+st.subheader(f"Showing {len(filtered_list)} Items")
+
+# Grid Layout (4 items per row)
 cols = st.columns(4)
 
-for i, p in enumerate(products):
-    # Filter Logic
-    if filter_status == "In Stock Only" and p.get("last_status") != "In Stock": continue
-    if filter_status == "Out of Stock Only" and p.get("last_status") != "Out of Stock": continue
-    if search.lower() and search.lower() not in p['name'].lower(): continue
-        
+for i, p in enumerate(filtered_list):
     with cols[i % 4]:
         with st.container(border=True):
-            # Image
-            if p.get("image"):
-                st.image(p["image"], use_column_width=True)
+            # Image (Handle lazy loading logic visually)
+            img_url = p.get("image")
+            if img_url:
+                # If the URL starts with //, add https:
+                if img_url.startswith("//"):
+                    img_url = "https:" + img_url
+                st.image(img_url, use_container_width=True)
             
-            st.caption(p["name"])
+            # Title
+            st.markdown(f"**[{p['name']}]({p['url']})**")
             
-            # Status
+            # Status Badge
             status = p.get('last_status', 'Unknown')
-            color = "green" if status == "In Stock" else "red"
-            st.markdown(f":{color}[**{status}**]")
+            if status == "In Stock":
+                st.markdown(f":green-background[In Stock]")
+            else:
+                st.markdown(f":red-background[Out of Stock]")
             
-            # Price
+            # Price Display
             price = p.get('last_price', 0)
-            st.metric("Price", f"${price}")
+            target = p.get('target_price', 0)
             
-            # Chart
-            if p.get("history"):
+            # Show Price (Highlight if below target)
+            if price > 0 and price <= target:
+                st.metric("Price", f"${price}", delta="Target Met!", delta_color="normal")
+            else:
+                st.metric("Price", f"${price}")
+
+            # Price History Chart (Mini)
+            if p.get("history") and len(p["history"]) > 1:
                 df = pd.DataFrame(list(p["history"].items()), columns=["Date", "Price"])
                 st.line_chart(df.set_index("Date"), height=100)
-            
-            st.markdown(f"[View on Site]({p['url']})")
