@@ -6,7 +6,7 @@
         "target_price": 38.99,
         "notify_restock": true,
         "last_price": 38.99,
-        "last_status": "In Stock",
+        "last_status": "Out of Stock",
         "history": {}
     },
     {
