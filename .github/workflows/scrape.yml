@@ -2,7 +2,7 @@ name: Daily Price Check
 
 on:
   schedule:
-    - cron: "0/10 * * * *"  # Runs every hour (safe for free tier)
+    - cron: "*/5 * * * *"  # Runs every hour (safe for free tier)
   workflow_dispatch:      # Allows you to click a button to run manually
 
 permissions:
