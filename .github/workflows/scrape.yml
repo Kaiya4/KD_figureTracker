@@ -1,0 +1,37 @@
+name: Daily Price Check
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour (safe for free tier)
+  workflow_dispatch:      # Allows you to click a button to run manually
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python scraper.py
+
+      - name: Save changes
+        run: |
+          git config user.name "FigureBot"
+          git config user.email "bot@github.com"
+          git add products.json
+          git commit -m "Update prices" || exit 0
+          git push
