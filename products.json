@@ -6,8 +6,10 @@
         "target_price": 38.99,
         "notify_restock": true,
         "last_price": 38.99,
-        "last_status": "Out of Stock",
-        "history": {}
+        "last_status": "In Stock",
+        "history": {
+            "2025-11-22 19:25": 38.99
+        }
     },
     {
         "name": "Honkai: Star Rail - Gift+ Qingque 1/10 Scale Figure",
@@ -17,7 +19,9 @@
         "notify_restock": true,
         "last_price": 57.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 57.99
+        }
     },
     {
         "name": "Honkai Impact 3  - Fu Hua: Azure Empyrea 1/8 Scale Figure",
@@ -27,7 +31,9 @@
         "notify_restock": true,
         "last_price": 70.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 70.19
+        }
     },
     {
         "name": "Honkai: Star Rail - Kafka: Star Rail LIVE ver. 1/8 Scale Figure",
@@ -37,7 +43,9 @@
         "notify_restock": true,
         "last_price": 77.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 77.99
+        }
     },
     {
         "name": "GRIDMAN UNIVERSE - Rikka Takarada 1/7 Scale Figure",
@@ -47,7 +55,9 @@
         "notify_restock": true,
         "last_price": 103.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 103.19
+        }
     },
     {
         "name": "Fate/Grand Order - Saber & Saber Motored Cuirassier 1/8 Scale Figure (Re-release)",
@@ -57,7 +67,9 @@
         "notify_restock": true,
         "last_price": 111.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 111.99
+        }
     },
     {
         "name": "Jujutsu Kaisen - Suguru Geto: Tokyo Jujutsu High School Ver. 1/7 Scale Figure",
@@ -67,7 +79,9 @@
         "notify_restock": true,
         "last_price": 114.29,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 114.29
+        }
     },
     {
         "name": "Blue Archive - Toki Asuma (Bunny Girl) 1/7 Scale Figure",
@@ -77,7 +91,9 @@
         "notify_restock": true,
         "last_price": 116.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 116.99
+        }
     },
     {
         "name": "Xenoblade Chronicles 3 - Mio 1/7 Scale Figure",
@@ -87,7 +103,9 @@
         "notify_restock": true,
         "last_price": 122.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 122.99
+        }
     },
     {
         "name": "Jujutsu Kaisen - Satoru Gojo: Tokyo Jujutsu High School Ver. 1/7 Scale Figure",
@@ -97,7 +115,9 @@
         "notify_restock": true,
         "last_price": 126.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 126.99
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Rapi: Classic Vacation 1/7 Scale Figure",
@@ -107,7 +127,9 @@
         "notify_restock": true,
         "last_price": 128.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 128.99
+        }
     },
     {
         "name": "KILL la KILL - Ryuko Matoi: Kamui Senketsu Ver. 1/8 Scale Figure (Re-release)",
@@ -117,7 +139,9 @@
         "notify_restock": true,
         "last_price": 131.39,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 131.39
+        }
     },
     {
         "name": "NIJISANJI - Sukoya Kana 1/7 Scale Figure",
@@ -127,7 +151,9 @@
         "notify_restock": true,
         "last_price": 137.59,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 137.59
+        }
     },
     {
         "name": "NEON GENESIS EVANGELION [COLLECTOR'S EDITION] Soryu Asuka Langley 1/7 Scale Figure",
@@ -137,7 +163,9 @@
         "notify_restock": true,
         "last_price": 140.39,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 140.39
+        }
     },
     {
         "name": "Princess Connect! Re: Dive - Yui (Ceremonial) 1/7 Scale Figure",
@@ -147,7 +175,9 @@
         "notify_restock": true,
         "last_price": 140.39,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 140.39
+        }
     },
     {
         "name": "Butareba: The Story of a Man Turned into a Pig - Jess 1/7 Scale Figure",
@@ -157,7 +187,9 @@
         "notify_restock": true,
         "last_price": 141.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 141.99
+        }
     },
     {
         "name": "Steins;Gate - Kurisu Makise (Lab Coat Style) 1/7 Scale Figure",
@@ -167,7 +199,9 @@
         "notify_restock": true,
         "last_price": 145.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 145.79
+        }
     },
     {
         "name": "Spice and Wolf Series-Holo: Yukata Beauty Ver. 1/7 Scale Figure",
@@ -177,7 +211,9 @@
         "notify_restock": true,
         "last_price": 158.39,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 158.39
+        }
     },
     {
         "name": "Fate/Grand Order - Avenger/Oda Nobunaga 1/7 Scale Figure",
@@ -187,7 +223,9 @@
         "notify_restock": true,
         "last_price": 158.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 158.99
+        }
     },
     {
         "name": "Hatsune Miku - Sakura Miku: Hanami Outfit Ver. 1/7 Scale Figure",
@@ -197,7 +235,9 @@
         "notify_restock": true,
         "last_price": 159.29,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 159.29
+        }
     },
     {
         "name": "Miss Kobayashi's Dragon Maid - Iruru 1/7 Scale Figure",
@@ -207,7 +247,9 @@
         "notify_restock": true,
         "last_price": 162.39,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 162.39
+        }
     },
     {
         "name": "NEKOPARA - Chocola: Maid Swimsuit ver. 1/7 Scale Figure",
@@ -217,7 +259,9 @@
         "notify_restock": true,
         "last_price": 165.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 165.99
+        }
     },
     {
         "name": "Rascal Does Not Dream of Series - Mai Sakurajima Hoodie\u2606Look Rabbit Ears Ver. Popular Edition 1/7 Scale Figure",
@@ -227,7 +271,9 @@
         "notify_restock": true,
         "last_price": 169.64,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 169.64
+        }
     },
     {
         "name": "Toradora! - Taiga Aisaka: Bunny Ver. 1/6 Scale Figure",
@@ -237,7 +283,9 @@
         "notify_restock": true,
         "last_price": 170.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 170.99
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Klaudia: Chinese Dress Ver. 1/6 Scale Figure",
@@ -247,7 +295,9 @@
         "notify_restock": true,
         "last_price": 172.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 172.79
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Ryza: Chinese Dress Ver. 1/6 Scale Figure",
@@ -257,7 +307,9 @@
         "notify_restock": true,
         "last_price": 172.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 172.79
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Scarlet 1/7 Scale Figure",
@@ -267,7 +319,9 @@
         "notify_restock": true,
         "last_price": 173.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 173.69
+        }
     },
     {
         "name": "Princess Connect! Re: Dive - Kyoka Figure 1/7 Scale Figure",
@@ -277,7 +331,9 @@
         "notify_restock": true,
         "last_price": 174.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 174.99
+        }
     },
     {
         "name": "City Hunter The Movie: Angel Dust - Saeko Nogami: Bunny Ver. 1/6 Scale Figure",
@@ -287,7 +343,9 @@
         "notify_restock": true,
         "last_price": 178.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 178.19
+        }
     },
     {
         "name": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 3 1/7 Scale Figure Darkness: Fairy Tale Ver.",
@@ -297,7 +355,9 @@
         "notify_restock": true,
         "last_price": 179.09,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 179.09
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World- Rem: Yukata Ver. (Renewal Package Edition) 1/7 Scale Figure",
@@ -307,7 +367,9 @@
         "notify_restock": true,
         "last_price": 181.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 181.79
+        }
     },
     {
         "name": "Love Is Indivisible by Twins - Naori Jinguji: Bunny Ver. 1/6 Scale Figure",
@@ -317,7 +379,9 @@
         "notify_restock": true,
         "last_price": 182.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 182.69
+        }
     },
     {
         "name": "GUILTY GEAR -STRIVE -  \"BAIKEN\" 1/7 Scale Figure",
@@ -327,7 +391,9 @@
         "notify_restock": true,
         "last_price": 186.29,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 186.29
+        }
     },
     {
         "name": "NieR:Automata - \"YoRHa No. 9 Type S -Covering Fire-\" 1/7 Scale Figure",
@@ -337,7 +403,9 @@
         "notify_restock": true,
         "last_price": 187.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 187.19
+        }
     },
     {
         "name": "Hatsune Miku - Hatsune Miku: Beauty Looking Back Miku Ver. 1/7 Scale Figure",
@@ -347,7 +415,9 @@
         "notify_restock": true,
         "last_price": 190.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 190.79
+        }
     },
     {
         "name": "Bocchi the Rock! - Kikuri Hiroi 1/7 Scale Figure",
@@ -357,7 +427,9 @@
         "notify_restock": true,
         "last_price": 193.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 193.49
+        }
     },
     {
         "name": "Rascal Does Not Dream of Series - Mai Sakurajima Hoodie\u2606Look Rabbit Ears ver. 1/7 Scale Figure",
@@ -367,7 +439,9 @@
         "notify_restock": true,
         "last_price": 193.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 193.49
+        }
     },
     {
         "name": "Kaiju No. 8 - Soshiro Hoshina 1/7 Scale Figure",
@@ -377,7 +451,9 @@
         "notify_restock": true,
         "last_price": 194.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 194.99
+        }
     },
     {
         "name": "Blue Archive - Hoshino (Swimsuit) 1/7 Scale Figure",
@@ -387,7 +463,9 @@
         "notify_restock": true,
         "last_price": 198.89,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 198.89
+        }
     },
     {
         "name": "Azur Lane - Kumano: Fancy Waves Ver. 1/6 Scale Figure",
@@ -397,7 +475,9 @@
         "notify_restock": true,
         "last_price": 198.89,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 198.89
+        }
     },
     {
         "name": "Jujutsu Kaisen - Satoru Gojo: Tokyo Jujutsu High School Ver./Suguru Geto: Tokyo Jujutsu High School Ver. 1/7 Scale Figure Set",
@@ -407,7 +487,9 @@
         "notify_restock": true,
         "last_price": 205.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 205.19
+        }
     },
     {
         "name": "Love Is Indivisible by Twins - Rumi Jinguji: Bunny Ver. 1/6 Scale Figure",
@@ -417,7 +499,9 @@
         "notify_restock": true,
         "last_price": 207.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 207.99
+        }
     },
     {
         "name": "Saekano: How to Raise a Boring Girlfriend Fine - Megumi Kato: Bunny Ver. 2nd Figure (1/6 Scale)",
@@ -427,7 +511,9 @@
         "notify_restock": true,
         "last_price": 214.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 214.19
+        }
     },
     {
         "name": "Racing Miku - Racing Miku: 2023 Ver. 1/7 Scale Figure",
@@ -437,7 +523,9 @@
         "notify_restock": true,
         "last_price": 215.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 215.99
+        }
     },
     {
         "name": "Love Live! - EMMA VERDE 1/7 Scale Figure",
@@ -447,7 +535,9 @@
         "notify_restock": true,
         "last_price": 218.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 218.99
+        }
     },
     {
         "name": "Yuna: Cow Bikini Ver. 1/6 Scale Figure (Re-release)",
@@ -457,7 +547,9 @@
         "notify_restock": true,
         "last_price": 220.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 220.99
+        }
     },
     {
         "name": "NieR:Automata Ver1.1a - 9S 1/7 Scale Figure\u3010Deluxe Edition\u3011",
@@ -467,7 +559,9 @@
         "notify_restock": true,
         "last_price": 224.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 224.99
+        }
     },
     {
         "name": "Azur Lane - Le Malin \u00b5 1/7 Scale Figure",
@@ -477,7 +571,9 @@
         "notify_restock": true,
         "last_price": 225.89,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 225.89
+        }
     },
     {
         "name": "\u3010OSHI NO KO\u3011 - MEMcho: Bazurase Fashion Ver. 1/6 Scale Figure",
@@ -487,7 +583,9 @@
         "notify_restock": true,
         "last_price": 229.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 229.49
+        }
     },
     {
         "name": "\u3010OSHI NO KO\u3011 - Kana Arima: Bazurase Fashion Ver. 1/6 Scale Figure",
@@ -497,7 +595,9 @@
         "notify_restock": true,
         "last_price": 229.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 229.49
+        }
     },
     {
         "name": "Hatsune Miku - Creators Collection Figure Hatsune Miku: Rosuuri Ver. 1/7 Scale Figure",
@@ -507,7 +607,9 @@
         "notify_restock": true,
         "last_price": 233.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 233.99
+        }
     },
     {
         "name": "Alya Sometimes Hides Her Feelings in Russian - Alisa Mikhailovna Kujou: Vacation Swimsuit Ver. 1/7 Scale Figure",
@@ -517,7 +619,9 @@
         "notify_restock": true,
         "last_price": 236.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 236.69
+        }
     },
     {
         "name": "DARLING in the FRANXX 1/7 Scale Figure Zero Two",
@@ -527,7 +631,9 @@
         "notify_restock": true,
         "last_price": 236.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 236.69
+        }
     },
     {
         "name": "To Love-Ru Darkness - Golden Darkness: Bunny Ver. 1/6 Scale Figure",
@@ -537,7 +643,9 @@
         "notify_restock": true,
         "last_price": 240.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 240.99
+        }
     },
     {
         "name": "Fairy Tail - Erza Scarlet: Ataraxia Armor Ver. 1/6 Scale Figure",
@@ -547,7 +655,9 @@
         "notify_restock": true,
         "last_price": 243.89,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 243.89
+        }
     },
     {
         "name": "Date A Live Series  - Mio Takamiya: Summer Dress Ver. 1/7 Scale Figure",
@@ -557,7 +667,9 @@
         "notify_restock": true,
         "last_price": 245.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 245.69
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Alice Sweet Home 1/7 Scale Figure",
@@ -567,7 +679,9 @@
         "notify_restock": true,
         "last_price": 246.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 246.99
+        }
     },
     {
         "name": "hololive production - Iroha Kazama 1/7 Scale Figure",
@@ -577,7 +691,9 @@
         "notify_restock": true,
         "last_price": 253.26,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 253.26
+        }
     },
     {
         "name": "GUILTY GEAR -STRIVE - Bridget 1/6 Scale Figure",
@@ -587,7 +703,9 @@
         "notify_restock": true,
         "last_price": 254.69,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 254.69
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Volume 1/7 Scale Figure",
@@ -597,7 +715,9 @@
         "notify_restock": true,
         "last_price": 254.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 254.99
+        }
     },
     {
         "name": "Kakegurui - Mary Saotome: Bunny Ver. 1/4 Scale Figure",
@@ -607,7 +727,9 @@
         "notify_restock": true,
         "last_price": 257.59,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 257.59
+        }
     },
     {
         "name": "\"Kaguya-sama: Love is War -Ultra Romantic- Kaguya Shinomiya: Bare Leg Bunny Ver. 1/4 Scale Figure",
@@ -617,7 +739,9 @@
         "notify_restock": true,
         "last_price": 259.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 259.99
+        }
     },
     {
         "name": "Ranma 1/2 - Shampoo 1/7 Scale Figure",
@@ -627,7 +751,9 @@
         "notify_restock": true,
         "last_price": 259.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 259.99
+        }
     },
     {
         "name": "Jujutsu Kaisen - Satoru Gojo -Unlimited Curses - 1/7 Scale Figure",
@@ -637,7 +763,9 @@
         "notify_restock": true,
         "last_price": 259.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 259.99
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Alice Sweet Home Limited Edition 1/7 Scale Figure",
@@ -647,7 +775,9 @@
         "notify_restock": true,
         "last_price": 265.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 265.99
+        }
     },
     {
         "name": "Atelier Ryza: Ever Darkness & the Secret Hideout 1/7 Scale Figure Klaudia Valentz: Swimsuit Ver.",
@@ -657,7 +787,9 @@
         "notify_restock": true,
         "last_price": 272.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 272.99
+        }
     },
     {
         "name": "Atelier Ryza: Ever Darkness & the Secret Hideout 1/7 Scale Figure Lila Decyrus: Swimsuit Ver.",
@@ -667,7 +799,9 @@
         "notify_restock": true,
         "last_price": 272.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 272.99
+        }
     },
     {
         "name": "Lycoris Recoil - Chisato Nishikigi: Bunny Ver. 1/4 Scale Figure",
@@ -677,7 +811,9 @@
         "notify_restock": true,
         "last_price": 273.59,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 273.59
+        }
     },
     {
         "name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Ryza (Reisalin Stout) 1/7 Scale Figure",
@@ -687,7 +823,9 @@
         "notify_restock": true,
         "last_price": 273.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 273.99
+        }
     },
     {
         "name": "Magical Parade Bunny 1/4 Scale Figure",
@@ -697,7 +835,9 @@
         "notify_restock": true,
         "last_price": 280.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 280.79
+        }
     },
     {
         "name": "That Time I Got Reincarnated as a Slime - Millim: Bare Leg Bunny Ver. 1/4 Scale Figure",
@@ -707,7 +847,9 @@
         "notify_restock": true,
         "last_price": 285.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 285.99
+        }
     },
     {
         "name": "Azur Lane - Graf Zeppelin 1/7 Scale Figure",
@@ -717,7 +859,9 @@
         "notify_restock": true,
         "last_price": 285.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 285.99
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World - Ram: Bare Leg Bunny Ver. 2nd 1/4 Scale Figure",
@@ -727,7 +871,9 @@
         "notify_restock": true,
         "last_price": 286.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 286.19
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World - Rem: Bare Leg Bunny Ver. 2nd 1/4 Scale Figure",
@@ -737,7 +883,9 @@
         "notify_restock": true,
         "last_price": 286.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 286.19
+        }
     },
     {
         "name": "OVERLORD - Albedo Splendid Kimono Ver. 1/7 Scale Figure",
@@ -747,7 +895,9 @@
         "notify_restock": true,
         "last_price": 287.09,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 287.09
+        }
     },
     {
         "name": "Inuyasha - Kagome Higurashi 1/7 Scale Figure",
@@ -757,7 +907,9 @@
         "notify_restock": true,
         "last_price": 291.59,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 291.59
+        }
     },
     {
         "name": "Food Wars! Shokugeki no Soma - Erina Nakiri: Bunny Ver. 1/4 Scale Figure",
@@ -767,7 +919,9 @@
         "notify_restock": true,
         "last_price": 298.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 298.79
+        }
     },
     {
         "name": "Lycoris Recoil - Takina Inoue: Bunny Ver. 1/4 Scale Figure",
@@ -777,7 +931,9 @@
         "notify_restock": true,
         "last_price": 314.09,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 314.09
+        }
     },
     {
         "name": "A Certain Scientific Railgun T - Mikoto Misaka: Bunny Ver. 2nd 1/4 Scale Figure",
@@ -787,7 +943,9 @@
         "notify_restock": true,
         "last_price": 318.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 318.99
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy -  Ryza & Klaudia: Chinese Dress Ver. 1/6 Scale Figure",
@@ -797,7 +955,9 @@
         "notify_restock": true,
         "last_price": 329.93,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 329.93
+        }
     },
     {
         "name": "GODDESS OF VICTORY: NIKKE - Helm: Aquamarine 1/4 Scale Figure",
@@ -807,7 +967,9 @@
         "notify_restock": true,
         "last_price": 335.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 335.99
+        }
     },
     {
         "name": "The Master of Diabolism - Wei Wuxian & Lan Wangji: Pledge of the Peony Ver. 1/7 Scale Figure",
@@ -817,7 +979,9 @@
         "notify_restock": true,
         "last_price": 341.09,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 341.09
+        }
     },
     {
         "name": "Azur Lane - St. Louis 1/7 Scale Figure",
@@ -827,7 +991,9 @@
         "notify_restock": true,
         "last_price": 348.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 348.99
+        }
     },
     {
         "name": "Higehiro - Sayu Ogiwara: Bunny Ver. 1/4 Scale Figure",
@@ -837,7 +1003,9 @@
         "notify_restock": true,
         "last_price": 354.59,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 354.59
+        }
     },
     {
         "name": "Food Wars! Shokugeki no Soma - Ikumi Mito: Normal Bunny Ver. 1/4 Scale Figure",
@@ -847,7 +1015,9 @@
         "notify_restock": true,
         "last_price": 364.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 364.49
+        }
     },
     {
         "name": "The Dangers in My Heart - Anna Yamada: Bunny Ver. 1/4 Scale Figure",
@@ -857,7 +1027,9 @@
         "notify_restock": true,
         "last_price": 364.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 364.49
+        }
     },
     {
         "name": "Shikimori's Not Just a Cutie-Shikimori: Bunny Ver. 1/4 Scale Figure",
@@ -867,7 +1039,9 @@
         "notify_restock": true,
         "last_price": 364.49,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 364.49
+        }
     },
     {
         "name": "Sword Art Online - Asuna: Bunny Ver. 1/4 Scale Figure",
@@ -877,7 +1051,9 @@
         "notify_restock": true,
         "last_price": 376.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 376.19
+        }
     },
     {
         "name": "BASTARD!! -Heavy Metal, Dark Fantasy - Arshes Nei: Bunny Ver. 1/4 Scale Figure",
@@ -887,7 +1063,9 @@
         "notify_restock": true,
         "last_price": 380.7,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 380.7
+        }
     },
     {
         "name": "Food Wars! Shokugeki no Soma - Erina Nakiri: Bikini Bunny Ver. 1/4 Scale Figure",
@@ -897,7 +1075,9 @@
         "notify_restock": true,
         "last_price": 397.79,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 397.79
+        }
     },
     {
         "name": "Azur Lane - Baltimore 1/7 Scale Figure",
@@ -907,7 +1087,9 @@
         "notify_restock": true,
         "last_price": 398.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 398.99
+        }
     },
     {
         "name": "Azur Lane - Honolulu 1/7 Scale Figure",
@@ -917,7 +1099,9 @@
         "notify_restock": true,
         "last_price": 410.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 410.99
+        }
     },
     {
         "name": "My Teen Romantic Comedy SNAFU Climax -  Yukino Yukinoshita & Yui Yuigahama: Casino Party Ver. Extra Special Edition 1/7 Scale Figure",
@@ -927,7 +1111,9 @@
         "notify_restock": true,
         "last_price": 443.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 443.99
+        }
     },
     {
         "name": "Fate/Grand Order - Saber/Altria Pendragon (Lily) 1/4 Scale Figure",
@@ -937,7 +1123,9 @@
         "notify_restock": true,
         "last_price": 467.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 467.99
+        }
     },
     {
         "name": "To Love-Ru Darkness - Momo Belia Deviluke: Bunny Ver. 1/3 Scale Figure",
@@ -947,7 +1135,9 @@
         "notify_restock": true,
         "last_price": 530.09,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 530.09
+        }
     },
     {
         "name": "To Love-Ru Darkness - Golden Darkness: Bunny Ver. 1/3 Scale Figure",
@@ -957,7 +1147,9 @@
         "notify_restock": true,
         "last_price": 619.19,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 619.19
+        }
     },
     {
         "name": "Batman  - Art Respect: Batman 1/6 Scale Figure",
@@ -967,7 +1159,9 @@
         "notify_restock": true,
         "last_price": 1200.99,
         "last_status": "In Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 1200.99
+        }
     },
     {
         "name": "Jujutsu Kaisen  - Satoru Gojo 1/7 Scale Figure",
@@ -977,7 +1171,9 @@
         "notify_restock": true,
         "last_price": 13.65,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 13.65
+        }
     },
     {
         "name": "Jujutsu Kaisen - Sukuna Ryomen -King of curses- 1/7 Scale Figure",
@@ -987,7 +1183,9 @@
         "notify_restock": true,
         "last_price": 15.6,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 15.6
+        }
     },
     {
         "name": "Tsumugibako - Putun: Conception Ver. 1/1 Scale Figure",
@@ -997,7 +1195,9 @@
         "notify_restock": true,
         "last_price": 15.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 15.99
+        }
     },
     {
         "name": "sorasis - Yuuka Sorai: Cat Ears Ver. 1/4 Scale Figure",
@@ -1007,7 +1207,9 @@
         "notify_restock": true,
         "last_price": 16.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 16.49
+        }
     },
     {
         "name": "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc Nezuko Kamado 1/8 Scale Figure (Demon Form Advancing Version) 1/8 scale figure",
@@ -1017,7 +1219,9 @@
         "notify_restock": true,
         "last_price": 16.8,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 16.8
+        }
     },
     {
         "name": "That Time I Got Reincarnated as a Slime - Shion: Bunny Ver. 1/4 Scale Figure",
@@ -1027,7 +1231,9 @@
         "notify_restock": true,
         "last_price": 17.55,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 17.55
+        }
     },
     {
         "name": "Azur Lane - St. Louis Light Equipment Ver. 1/7 Scale Figure",
@@ -1037,7 +1243,9 @@
         "notify_restock": true,
         "last_price": 18.6,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 18.6
+        }
     },
     {
         "name": "Soul Land - Xiao Wu: Lifelong Protection ver. 1/7 scale Figure",
@@ -1047,7 +1255,9 @@
         "notify_restock": true,
         "last_price": 20.69,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 20.69
+        }
     },
     {
         "name": "[EVA GLOBAL] \"Evangelion\" Series Rei Ayanami [Tentative Name] Millennials Illust Ver. 1/7 Scale Figure",
@@ -1057,7 +1267,9 @@
         "notify_restock": true,
         "last_price": 21.21,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 21.21
+        }
     },
     {
         "name": "Danganronpa - Kaede Akamatsu: Bunny Ver. 1/4 Scale Figure",
@@ -1067,7 +1279,9 @@
         "notify_restock": true,
         "last_price": 21.3,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 21.3
+        }
     },
     {
         "name": "fuzichoco's illustration- Toka Kairo ~Minasoko no Alice~ 1/7th scale Figure",
@@ -1077,7 +1291,9 @@
         "notify_restock": true,
         "last_price": 21.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 21.49
+        }
     },
     {
         "name": "That Time I Got Reincarnated as a Slime - Milim Nava 1/7 Scale Figure",
@@ -1087,7 +1303,9 @@
         "notify_restock": true,
         "last_price": 22.7,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 22.7
+        }
     },
     {
         "name": "Fate/Grand Order - Caster/Sc\u00e1thach-Skadi 1/7 Scale Figure",
@@ -1097,7 +1315,9 @@
         "notify_restock": true,
         "last_price": 22.8,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 22.8
+        }
     },
     {
         "name": "That Time I Got Reincarnated as a Slime - Shizu  1/7 Scale Figure",
@@ -1107,7 +1327,9 @@
         "notify_restock": true,
         "last_price": 24.89,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 24.89
+        }
     },
     {
         "name": "G.A.D_TEN 1/7 Scale Figure",
@@ -1117,7 +1339,9 @@
         "notify_restock": true,
         "last_price": 25.19,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 25.19
+        }
     },
     {
         "name": "G.A.D_INU 1/7 Scale Figure",
@@ -1127,7 +1351,9 @@
         "notify_restock": true,
         "last_price": 25.19,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 25.19
+        }
     },
     {
         "name": "NARAKA: BLADEPOINT - Tsuchimikado Kurumi: Onmyoki Ver. 1/7 Scale Figure",
@@ -1137,7 +1363,9 @@
         "notify_restock": true,
         "last_price": 25.94,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 25.94
+        }
     },
     {
         "name": "No Game No Life - Shiro (Re-release) 1/7 Scale Figure",
@@ -1147,7 +1375,9 @@
         "notify_restock": true,
         "last_price": 26.84,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 26.84
+        }
     },
     {
         "name": "No Game No Life - Schwi 1/7 Scale Figure",
@@ -1157,7 +1387,9 @@
         "notify_restock": true,
         "last_price": 26.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 26.99
+        }
     },
     {
         "name": "A Couple of Cuckoos - Hiro Segawa: Bunny Ver. 1/7 Scale Figure",
@@ -1167,7 +1399,9 @@
         "notify_restock": true,
         "last_price": 27.39,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 27.39
+        }
     },
     {
         "name": "That Time I Got Reincarnated as a Slime - Millim Nava 1/7 Scale Figure",
@@ -1177,7 +1411,9 @@
         "notify_restock": true,
         "last_price": 29.69,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 29.69
+        }
     },
     {
         "name": "Fate/kaleid liner Prisma\u2606Illya: Licht  - The Nameless Girl - Pandora: Wedding Dress ver. 1/7 Scale Figure",
@@ -1187,7 +1423,9 @@
         "notify_restock": true,
         "last_price": 31.04,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 31.04
+        }
     },
     {
         "name": "Evangelion - Shikinami Asuka Langley Ver.RADIO EVA 1/7 Scale Figure",
@@ -1197,7 +1435,9 @@
         "notify_restock": true,
         "last_price": 31.19,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 31.19
+        }
     },
     {
         "name": "Fate/kaleid liner Prisma\u2606Illya - Illyasviel von Einzbern: Prisma\u2606Klangfest Ver. 1/7 Scale Figure",
@@ -1207,7 +1447,9 @@
         "notify_restock": true,
         "last_price": 32.6,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 32.6
+        }
     },
     {
         "name": "Gabriel DropOut - Satanichia Kurumizawa McDowell 1/7th Scale Figure",
@@ -1217,7 +1459,9 @@
         "notify_restock": true,
         "last_price": 35.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 35.99
+        }
     },
     {
         "name": "A Couple of Cuckoos - Erika Amano: Bunny Girl Ver. 1/7 Scale Figure",
@@ -1227,7 +1471,9 @@
         "notify_restock": true,
         "last_price": 35.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 35.99
+        }
     },
     {
         "name": "A Couple of Cuckoos - Sachi Umino Bunny Ver. 1/7 Scale Figure",
@@ -1237,7 +1483,9 @@
         "notify_restock": true,
         "last_price": 35.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 35.99
+        }
     },
     {
         "name": "Girls' Frontline - S.A.T.8 Heavy Damage Ver. 1/7 Scale Figure",
@@ -1247,7 +1495,9 @@
         "notify_restock": true,
         "last_price": 37.19,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 37.19
+        }
     },
     {
         "name": "SSR-FIGURE Yi Ren Guan  - House of Unhumans Chu 1/7 Scale Figure",
@@ -1257,7 +1507,9 @@
         "notify_restock": true,
         "last_price": 37.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 37.99
+        }
     },
     {
         "name": "SSR-FIGURE Yi Ren Guan  - House of Unhumans Yu Cong Xiao: Bunny Ver. 1/7 Scale Figure",
@@ -1267,7 +1519,9 @@
         "notify_restock": true,
         "last_price": 37.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 37.99
+        }
     },
     {
         "name": "Chainsaw Man - Power 1/7 Scale Figure",
@@ -1277,7 +1531,9 @@
         "notify_restock": true,
         "last_price": 38.54,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 38.54
+        }
     },
     {
         "name": "SSSS.DYNAZENON - YUME MINAMI 1/6th scale Figure",
@@ -1287,7 +1543,9 @@
         "notify_restock": true,
         "last_price": 39.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 39.99
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World - Emilia Jewel Princess 1/7 Scale Figure",
@@ -1297,7 +1555,9 @@
         "notify_restock": true,
         "last_price": 40.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 40.49
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World - Ram Jewel Princess 1/7 Scale Figure",
@@ -1307,7 +1567,9 @@
         "notify_restock": true,
         "last_price": 40.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 40.49
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World - Rem Jewel Princess 1/7 Scale Figure",
@@ -1317,7 +1579,9 @@
         "notify_restock": true,
         "last_price": 40.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 40.49
+        }
     },
     {
         "name": "Girls' Frontline - DP-12: Echeveria Lantern 1/6 Scale Figure",
@@ -1327,7 +1591,9 @@
         "notify_restock": true,
         "last_price": 47.59,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 47.59
+        }
     },
     {
         "name": "miHoYo \"Genshin Impact\" Klee the Spark Knight 1/7 Scale Figure",
@@ -1337,7 +1603,9 @@
         "notify_restock": true,
         "last_price": 49.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 49.99
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Ryza (Reisalin Stout): High Summer Formal Ver. 1/6 Scale Figure",
@@ -1347,7 +1615,9 @@
         "notify_restock": true,
         "last_price": 50.39,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 50.39
+        }
     },
     {
         "name": "Persona 5 Royal - Kasumi Yoshizawa 1/7 Scale Figure",
@@ -1357,7 +1627,9 @@
         "notify_restock": true,
         "last_price": 50.69,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 50.69
+        }
     },
     {
         "name": "Girls' Frontline - VSK-94 Heavy Damage Ver. 1/6 Scale Figure",
@@ -1367,7 +1639,9 @@
         "notify_restock": true,
         "last_price": 52.39,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 52.39
+        }
     },
     {
         "name": "No Game No Life - Shiro & Schwi 1/7 Scale Figure",
@@ -1377,7 +1651,9 @@
         "notify_restock": true,
         "last_price": 56.84,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 56.84
+        }
     },
     {
         "name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Ryza (Reisalin Stout) 1/6th Scale Figure",
@@ -1387,7 +1663,9 @@
         "notify_restock": true,
         "last_price": 59.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 59.49
+        }
     },
     {
         "name": "Kaiju No. 8 - Shinomiya Kikoru 1/18 Scale Figure",
@@ -1397,7 +1675,9 @@
         "notify_restock": true,
         "last_price": 60.79,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 60.79
+        }
     },
     {
         "name": "Teasing Master Takagi-san - Takagi-san: One-Piece Dress Ver. 1/6 Scale Figure",
@@ -1407,7 +1687,9 @@
         "notify_restock": true,
         "last_price": 63.59,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 63.59
+        }
     },
     {
         "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key - Ryza (Reisalin Stout) 1/7 Scale Figure",
@@ -1417,7 +1699,9 @@
         "notify_restock": true,
         "last_price": 64.39,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 64.39
+        }
     },
     {
         "name": "League of Legends - Star Guardian Zoe 1/7 Scale Figure",
@@ -1427,7 +1711,9 @@
         "notify_restock": true,
         "last_price": 71.59,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 71.59
+        }
     },
     {
         "name": "Bocchi the Rock! - Nijika Ijichi 1/7 Scale Figure",
@@ -1437,7 +1723,9 @@
         "notify_restock": true,
         "last_price": 73.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 73.49
+        }
     },
     {
         "name": "Re:ZERO -Starting Life in Another World- Emilia: Graceful Beauty 2024 New Year ver. 1/7 Scale Figure",
@@ -1447,7 +1735,9 @@
         "notify_restock": true,
         "last_price": 74.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 74.49
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Klaudia Valentz: Negligee Ver. 1/7 Scale Figure",
@@ -1457,7 +1747,9 @@
         "notify_restock": true,
         "last_price": 75.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 75.49
+        }
     },
     {
         "name": "The IDOLM@STER Series - Fuyuko Mayuzumi: Neon Light Romancer Ver.  1/7 Scale Figure",
@@ -1467,7 +1759,9 @@
         "notify_restock": true,
         "last_price": 75.59,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 75.59
+        }
     },
     {
         "name": "SPY ROOM Light Novel \u300aFlower Garden\u300bLily KADOKAWA Special Set 1/7 Scale Figure",
@@ -1477,7 +1771,9 @@
         "notify_restock": true,
         "last_price": 86.09,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 86.09
+        }
     },
     {
         "name": "Classroom of the Elite - Kei Karuizawa: Kimono Ver. 1/7 Scale Figure",
@@ -1487,7 +1783,9 @@
         "notify_restock": true,
         "last_price": 86.09,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 86.09
+        }
     },
     {
         "name": "Dolphin Wave  - Kiri Izumi: White Bunny Ver. 1/6 Scale Figure",
@@ -1497,7 +1795,9 @@
         "notify_restock": true,
         "last_price": 86.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 86.49
+        }
     },
     {
         "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Ryza (Reisalin Stout) 1/6th Scale Figure",
@@ -1507,7 +1807,9 @@
         "notify_restock": true,
         "last_price": 88.54,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 88.54
+        }
     },
     {
         "name": "Maid Maison Too Shiraishi Illustration by Io Haori 1/6 Scale Figure",
@@ -1517,7 +1819,9 @@
         "notify_restock": true,
         "last_price": 98.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 98.99
+        }
     },
     {
         "name": "xxxHOLiC - ICHIARA YUKO 1/7 Scale Figure",
@@ -1527,7 +1831,9 @@
         "notify_restock": true,
         "last_price": 102.49,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 102.49
+        }
     },
     {
         "name": "Dolphin Wave - Minami Kurose: Black Bunny Ver. 1/6 Scale Figure",
@@ -1537,7 +1843,9 @@
         "notify_restock": true,
         "last_price": 103.79,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 103.79
+        }
     },
     {
         "name": "NEON GENESIS EVANGELION [COLLECTOR'S EDITION] Rei Ayanami 1/7 Scale Figure",
@@ -1547,7 +1855,9 @@
         "notify_restock": true,
         "last_price": 134.09,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 134.09
+        }
     },
     {
         "name": "HUNTER x HUNTER - Gon Freecss 1/4 Scale Figure",
@@ -1557,7 +1867,9 @@
         "notify_restock": true,
         "last_price": 137.69,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 137.69
+        }
     },
     {
         "name": "SSR FIGURE Yi Ren Guan  - House of Unhumans Liu Qi 1/7 Scale Figure",
@@ -1567,7 +1879,9 @@
         "notify_restock": true,
         "last_price": 170.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 170.99
+        }
     },
     {
         "name": "[Sunflower Girl] illustration by EnMorikura 1/7 Scale Figure",
@@ -1577,7 +1891,9 @@
         "notify_restock": true,
         "last_price": 170.99,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 170.99
+        }
     },
     {
         "name": "Fate/Grand Order - Lancer/Utsumi Erice 1/7 Scale Figure",
@@ -1587,7 +1903,9 @@
         "notify_restock": true,
         "last_price": 177.29,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 177.29
+        }
     },
     {
         "name": "To Love-Ru Darkness - Momo Belia Deviluke: Bunny Ver. 1/6 Scale Figure",
@@ -1597,6 +1915,8 @@
         "notify_restock": true,
         "last_price": 202.4,
         "last_status": "Out of Stock",
-        "history": {}
+        "history": {
+            "2025-11-22 19:25": 202.4
+        }
     }
 ]
